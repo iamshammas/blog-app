@@ -2,9 +2,9 @@
 # 📝 Blog App (Django)
 
 A full-featured blog application built with **Python** and **Django**. This app allows users to create, read, update, and delete blog posts, with user authentication and an admin panel for content management.
-
+````
 👉 **Live Demo:** [https://blog-app-ik5e.onrender.com/](https://blog-app-ik5e.onrender.com/)
-
+````
 ---
 
 ## 🚀 Features
